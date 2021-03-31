@@ -1,4 +1,4 @@
-# Reanimated v2 (release candidate) example
+# AnimatedPlayGround
 
 <p>
   <!-- iOS -->
